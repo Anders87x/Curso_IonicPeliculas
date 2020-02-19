@@ -1,5 +1,7 @@
 {
   "name": "peliculasapp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
